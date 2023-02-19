@@ -5,4 +5,4 @@ This is the practical application for this templat design:
 
 You can click this link to see the project`s output:
 
-**[preview](alhajjy.github.io/kazper-site)**
+**[preview](https://alhajjy.github.io/kasper-site/)**
